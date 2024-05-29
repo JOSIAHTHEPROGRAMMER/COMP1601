@@ -1,0 +1,56 @@
+1. Open the program, Syntax1.cpp, and correct the syntax errors. What output does the program
+produce?
+
+2. Open the program, Syntax2.cpp, and correct the syntax errors. What output does the program
+produce?
+
+3. Find the syntax errors in the following program without using the Dev-C++ compiler.
+include <iostream>;
+using name space std;
+Int main () {
+cout << "Here I come!"endl;
+cout << "Hello World of Computer Programming!;
+return 0
+}
+
+4. Write a program to display the translation of the following words from English to Spanish on the
+monitor:
+English Spanish
+dog perro
+cat gato
+horse caballo
+cow vaca
+computer computador
+
+
+5. Write a program to display the following conversion table on the monitor:
+Centigrade Fahrenheit
+========== ==========
+-40 -40
+0 32
+10 50
+20 68
+30 86
+40 104
+
+6. Write a program to display the following pattern of stars (asterisks) on the monitor:
+***********
+*********
+ *******
+ *****
+ ***
+ *
+
+7. Open the program, Style.cpp, and insert white space and indentation to make the program more
+readable. Compile and run the program when you are done.
+
+8. The length of a room is 40 feet. The width of the room is 30 feet. Write a program to calculate how
+many 2 feet x 2 feet tiles are required to tile the room (as a whole number).
+
+9. Monica is planning to take a loan to purchase a car. However, she wants to make sure she can afford
+the monthly payments. The principal amount is $150,000.00. The interest rate is 8% and the loan is
+for a period of 5 years. Write a program to calculate the amount of interest that Monica will pay over
+the 5-year period, using the simple interest formula:
+Simple interest = (principal * rate * time) / 100
+Your program should calculate the total amount that Monica will have to repay over the 5-year
+period and the monthly payment that Monica will have to make.
