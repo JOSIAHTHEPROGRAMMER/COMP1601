@@ -1,0 +1,18 @@
+//Question 3: Find syntax errors without using compiler in the following code:
+
+include <iostream>;
+using name space std;
+Int main () {
+cout << "Here I come!"endl;
+cout << "Hello World of Computer Programming!;
+return 0
+}
+
+//Errors: 
+1.include <iostream>; // Missing #
+2.using name space std; //Should be namespace not name space
+3.cout << "Here I come!"endl; // Missing << between " and endl
+4.Int main () // int not Int
+5.cout << "Hello World of Computer Programming!; // " missing " at the end before the ;.
+6. return 0 // Missing ; at end of the line
+
